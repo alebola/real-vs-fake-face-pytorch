@@ -64,5 +64,5 @@ The notebook prints:
 
 ## ⚠️ Notes
 - The dataset is not included in the repository.
-- For reproducibility, a fixed SEED=42 is used for the split.
+- For reproducibility, a fixed `SEED=42` is used for the split.
 - Training is on CPU by default. If CUDA is available, the notebook uses it automatically.
